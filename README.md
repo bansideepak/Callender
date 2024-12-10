@@ -1,4 +1,4 @@
-# Month Callender
+# Month Calender
 ### [Click to open](https://monthcallender.netlify.app)
 ### DEMO
 
